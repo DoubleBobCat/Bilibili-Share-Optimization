@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bilibili分享优化
-// @description  Bilibili分享优化
+// @description  劫持Bilibili分享按钮，直接提取分享文本，让分享更加清爽
 // @updateURL    https://raw.githubusercontent.com/doublebobcat/Bilibili-Share-Optimization/master/bilibili-share-optimization.user.js
 // @downloadURL  https://raw.githubusercontent.com/doublebobcat/Bilibili-Share-Optimization/master/bilibili-share-optimization.user.js
 // @version      0.6

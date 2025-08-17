@@ -4,6 +4,10 @@
 
 </div>
 
+# 简介
+
+劫持Bilibili分享按钮，直接提取分享文本，让分享更加清爽
+
 # 安装
 
 需要浏览器装有 [Tampermonkey](https://tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/) 插件.
